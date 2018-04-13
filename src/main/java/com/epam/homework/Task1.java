@@ -34,9 +34,8 @@ public class Task1 {
      * MAX (35): Приятна мне твоя прощальная краса —
      */
     public static void main(String[] args) {
-        // TODO реализация
 
-        // TODO System.out.println("MIN (" + minLength + "): " + minString);
-        // TODO System.out.println("MAX (" + maxLength + "): " + maxString);
+        System.out.println("MIN (" + 1 + "): " + "123");
+        System.out.println("MAX (" + 1 + "): " + "123");
     }
 }
